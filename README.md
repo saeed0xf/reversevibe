@@ -1,6 +1,6 @@
 # ReverseVibe CTF Challenge
 
-NOTE ⚠️: THE PROJECT IS NOT COMPLETE YET.
+**NOTE ⚠️ : THE PROJECT IS NOT COMPLETE YET.**
 
 ReverseVibe is a social media API with intentional security vulnerabilities for CTF challenges.
 
